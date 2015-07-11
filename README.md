@@ -6,7 +6,7 @@
 
 1 - Change custom error  in Web.config to mode = "off" .
 
-2 - Wite this for All Conreollers
+2 - Wite this for All Controllers
    
     public class HomeController : BaseController
     
