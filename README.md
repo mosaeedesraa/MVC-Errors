@@ -4,9 +4,7 @@
 
 # Installation : 
 
-1 - Write in Web.config : 
-
-<customErrors mode="Off" />
+1 - Write in Web.config :  <customErrors mode="Off" />
 
 2 - Wite this for All Conreollers
    
