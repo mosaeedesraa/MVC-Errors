@@ -1,8 +1,8 @@
 # MVC Errors
 
-#Catch all error in your web sites
+# Catch all error in your web site
 
-#Installation : 
+# Installation : 
 
 1 - Write in Web.config : 
 
